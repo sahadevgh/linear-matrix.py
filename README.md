@@ -182,9 +182,10 @@ This project is open-source and available for personal and educational use.
 Developed by **Sahabia Yakubu**
 
 For inquiries, reach out at:
-- **GitHub**: [realsahabia](https://github.com/realsahabia)
-- **Twitter/X**: @realsahabia
-- **Email**: sahabia@example.com
+**Sahabia Yakubu**  
+📧 **Email**: yakubukarim12@gmail.com  
+🐙 **GitHub**: [sahadevgh](https://github.com/sahadevgh)  
+🐦 **Twitter/X**: @sahadevgh
 
 ---
 
